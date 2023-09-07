@@ -1,3 +1,11 @@
+/*
+ * medir nivel de agua con ultrasonido
+ * diseño por: ANDROBOT
+ * Apoya y sigueme en mis redes:
+ * Youtube: Androbot Tech
+ * Tik Tok: @androbot_tech
+ * facebook: @AndrobotTech
+*/
 const int echo=A1;
 const int trigger=A0;
 long tiempo;
